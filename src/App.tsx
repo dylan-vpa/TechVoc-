@@ -4,7 +4,7 @@ import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { 
   Terminal, Database, Cloud, Code2, Server, 
-  Globe, GitBranch, Network,
+  GitBranch, Network,
   Layers, Lock
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
