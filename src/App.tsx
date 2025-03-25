@@ -3,13 +3,12 @@ import { Card } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
 import { Progress } from '@/components/ui/progress';
 import { 
-  Monitor, Terminal, Database, Cloud, Code2, Server, 
-  Cpu, Globe, Shield, Wifi, GitBranch, Bug, Network,
+  Terminal, Database, Cloud, Code2, Server, 
+  Globe, GitBranch, Network,
   Layers, Lock
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Badge } from '@/components/ui/badge';
-import { Separator } from '@/components/ui/separator';
 
 interface Question {
   id: number;
